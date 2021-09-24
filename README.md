@@ -6,4 +6,4 @@ A basic app to help people manage heavy workloads with set time intervals for fo
 
 ![Screenshot of app](pomodoro-screenshot.png)
 
--Made using React.js, HTML5, and Bootstrap for CSS styling
+-Built using Javascript ES6, HTML5, React.js, and styled with Bootstrap
